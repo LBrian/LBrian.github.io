@@ -1,0 +1,11 @@
+{
+  "vendors.css": "/static/css/vendors.7a419bc97d30c65fdb1d.css",
+  "vendors.js": "/static/js/vendors.990c9a99.js",
+  "app.js": "/static/js/app.23a750ee.js",
+  "doc-home.css": "/static/css/doc-home.7a419bc97d30c65fdb1d.css",
+  "doc-home.js": "/static/js/doc-home.38fc09f7.js",
+  "tailwind-doc.js": "/static/js/tailwind-doc.3ddaf9f9.js",
+  "components-button-doc.js": "/static/js/components-button-doc.5340be60.js",
+  "runtime~app.js": "/static/js/runtime~app.7a419bc97d30c65fdb1d.js",
+  "index.html": "/index.html"
+}
