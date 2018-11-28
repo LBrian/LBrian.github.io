@@ -1,11 +1,16 @@
 {
-  "vendors.css": "/static/css/vendors.b5c0503cb3d044a5139d.css",
-  "vendors.js": "/static/js/vendors.65de4c57.js",
-  "app.js": "/static/js/app.ecbcf3d8.js",
-  "doc-home.css": "/static/css/doc-home.b5c0503cb3d044a5139d.css",
-  "doc-home.js": "/static/js/doc-home.38fc09f7.js",
-  "tailwind-doc.js": "/static/js/tailwind-doc.a2448df9.js",
-  "components-button-doc.js": "/static/js/components-button-doc.5340be60.js",
-  "runtime~app.js": "/static/js/runtime~app.b5c0503cb3d044a5139d.js",
-  "index.html": "/index.html"
+  "vendors.css": "/static/css/vendors.ad6752a6cd49895a8908.css",
+  "vendors.js": "/static/js/vendors.646a580d.js",
+  "app.js": "/static/js/app.2d2aae8d.js",
+  "home.js": "/static/js/home.b251ec9c.js",
+  "runtime~app.js": "/static/js/runtime~app.ad6752a6cd49895a8908.js",
+  "src-components-button-docz-doc.js": "/static/js/src-components-button-docz-doc.70c3ff35.js",
+  "src-components-button-group-docz-doc.js": "/static/js/src-components-button-group-docz-doc.9ab5931c.js",
+  "src-components-button-group-select-docz-doc.js": "/static/js/src-components-button-group-select-docz-doc.e9602412.js",
+  "src-components-menu-docz-doc.js": "/static/js/src-components-menu-docz-doc.fce98093.js",
+  "src-components-select-message-docz-doc.js": "/static/js/src-components-select-message-docz-doc.e725e885.js",
+  "src-tailwind-doc.js": "/static/js/src-tailwind-doc.2e4f2a76.js",
+  "index.html": "/index.html",
+  "static/img/arrow-down.svg": "/static/img/arrow-down.e9263c71.svg",
+  "static/img/close.svg": "/static/img/close.f93ea62d.svg"
 }
